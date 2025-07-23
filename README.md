@@ -1,5 +1,11 @@
 Here is your complete, updated `README.md` file with **embedded Terraform code snippets** for both the root and module-level files:
-
+```
+git clone https://github.com/atulkamble/terraform-ec2-module.git
+cd terraform-ec2-module
+terraform init
+terraform plan
+terraform apply
+```
 ---
 
 ```markdown
