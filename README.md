@@ -18,7 +18,6 @@ This project demonstrates provisioning EC2 instances in AWS using **Terraform mo
 ## 📁 Project Structure
 
 ```
-
 .
 ├── main.tf                  # Root Terraform configuration
 ├── terraform.tfstate        # Terraform state file (auto-generated)
